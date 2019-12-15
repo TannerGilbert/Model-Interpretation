@@ -24,7 +24,7 @@ Core API Examples:
 
 ## Using the callback api
 
-![callback example](doc/tf_explain_callback_example.png)
+![callback example](doc/tf_explain_callback_example.PNG)
 
 Using the Callback API you can perform on-training monitoring. Being able to observe the behavior of your model whilst training to decide whether your model is reasonable can save you from hours of trying to train a false behaving model.
 
