@@ -1,6 +1,8 @@
 # LIME (Local Interpretable Model-Agnostic Explanations)
 
-ime,  Local Interpretable Model-Agnostic, is a local model interpretation technique using Local surrogate models to approximate the predictions of the underlying black-box model.
+![Lime Example](doc/lime_example.png)
+
+Lime, Local Interpretable Model-Agnostic, is a local model interpretation technique using Local surrogate models to approximate the predictions of the underlying black-box model.
 
 Local surrogate models are interpretable models like Linear Regression or a Decision Trees that are used to explain individual predictions of a black-box model.
 
@@ -25,3 +27,8 @@ python setup.py install
 
 Lime can be used for many different applications. Below are some example use cases which you can use to get started.
 
+* [Use Lime for Tabular data](tabular_data_example.ipynb)
+* [Analyze NLP model](analysing_nlp_model_example.ipynb)
+* [Analyze Computer Vision model](computer_vision_example.ipynb)
+
+There are also lots of other notebook available, which show you how to use LIME. You can find a bunch of them in [the official repository](https://github.com/marcotcr/lime/tree/master/doc/notebooks).
