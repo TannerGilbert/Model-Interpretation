@@ -12,19 +12,19 @@ or
 pip install captum
 ```
 
-## [Getting started with Captum](https://github.com/TannerGilbert/Interpreting-PyTorch-models-with-Captum/blob/master/Getting_started_with_Captum_Insights.ipynb)
+## [Getting started with Captum](Getting_started_with_Captum_Insights.ipynb)
 
-![](doc/average_neuron_importance.png)
+![](doc/average_neuron_importance.PNG)
 
 This notebook will walk you through the process of analysing your model using Captum Insights
 
-## [Interpret computer vision model with Captum]([Interpreting-PyTorch-models-with-Captum/blob/master/Interpret_computer_vision_model_with_Captum.ipynb])
+## [Interpret computer vision model with Captum](Interpret_computer_vision_model_with_Captum.ipynb)
 
-![](doc/interpret_vision_model.png)
+![](doc/interpret_vision_model.PNG)
 
 This notebook will walk you through the process of gaining information about your CNN with Captum. This notebook is based on one of Captums official tutorials.
 
-## [Getting started with Captum Insights](https://github.com/TannerGilbert/Interpreting-PyTorch-models-with-Captum/blob/master/Interpret_your_PyTorch_model_with_Captum.ipynb)
+## [Getting started with Captum Insights](Interpret_your_PyTorch_model_with_Captum.ipynb)
 
 ![](doc/captum_insight.png)
 
