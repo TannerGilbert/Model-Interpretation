@@ -24,4 +24,4 @@ python setup.py install
 
 ## Examples
 
-* [PDPbox_Boston_Dataset_Example](PDPbox_Boston_Dataset_Example.ipynb)
+- [PDPbox_Boston_Dataset_Example](PDPbox_Boston_Dataset_Example.ipynb)

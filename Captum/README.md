@@ -1,11 +1,13 @@
 # Interpreting PyTorch models with Captum
+
 ![](doc/GradientSHAP_Example.png)
 
-Captum is a flexible  easy-to-use model interpretability library for PyTorch, providing state-of-the-art tools for understanding how specific neurons and layers affect predictions.
+Captum is a flexible easy-to-use model interpretability library for PyTorch, providing state-of-the-art tools for understanding how specific neurons and layers affect predictions.
 
 ## Installation
 
 Captum can be install using either Conda or Pip:
+
 ```bash
 conda install captum -c pytorch
 or
@@ -31,4 +33,5 @@ This notebook will walk you through the process of gaining information about you
 This notebook demonstrates how to use the methods available in Captum. It isn't focused on gaining information from the results. Rather it aims to give you information about how to implement Captum in your own project.
 
 ## Author
- **Gilbert Tanner**
+
+**Gilbert Tanner**

@@ -8,19 +8,20 @@ tf-explain implements interpretability methods for Tensorflow models. It support
 
 ![smoothgrad example](doc/smoothgrad.png)
 
-tf-explain can be used to interpret the prediction of a model after it was trained. This can help to gain an understanding of what the model really learned whilst training. 
+tf-explain can be used to interpret the prediction of a model after it was trained. This can help to gain an understanding of what the model really learned whilst training.
 
 As of now, tf-explain offers 5 different methods for interpreting neural networks:
 
-* [Activations Visualization](https://github.com/sicara/tf-explain#activations-visualization)
-* [Vanilla Gradients](https://github.com/sicara/tf-explain#vanilla-gradients)
-* [Occlusion Sensitivity](https://github.com/sicara/tf-explain#occlusion-sensitivity)
-* [Grad CAM (Class Activation Maps)](https://github.com/sicara/tf-explain#grad-cam)
-* [SmoothGrad](https://github.com/sicara/tf-explain#smoothgrad)
-* [Integrated Gradients](https://github.com/sicara/tf-explain#integrated-gradients)
+- [Activations Visualization](https://github.com/sicara/tf-explain#activations-visualization)
+- [Vanilla Gradients](https://github.com/sicara/tf-explain#vanilla-gradients)
+- [Occlusion Sensitivity](https://github.com/sicara/tf-explain#occlusion-sensitivity)
+- [Grad CAM (Class Activation Maps)](https://github.com/sicara/tf-explain#grad-cam)
+- [SmoothGrad](https://github.com/sicara/tf-explain#smoothgrad)
+- [Integrated Gradients](https://github.com/sicara/tf-explain#integrated-gradients)
 
 Core API Examples:
-* [Simple Example](simple_example.py)
+
+- [Simple Example](simple_example.py)
 
 ## Using the callback api
 

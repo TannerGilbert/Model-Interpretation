@@ -3,11 +3,11 @@
 As models become more and more complex, it's becoming increasingly important to develop methods for interpreting the model's decisions. In this repository, I try to provide an overview of some libraries you can use to interpret models.
 
 If you want more information about the topic, you can check out my articles:
-* [Introduction to Machine Learning Model Interpretation](https://gilberttanner.com/blog/introduction-to-machine-learning-model-interpretation)
-* [Hands-on Global Model Interpretation](https://gilberttanner.com/blog/hands-on-global-model-interpretation)
-* [Local Model Interpretation: An Introduction](https://gilberttanner.com/blog/local-model-interpretation-an-introduction)
-* [Interpreting Tensorflow models with tf-explain](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain)
-* [Interpreting PyTorch models with Captum](https://gilberttanner.com/blog/interpreting-pytorch-models-with-captum)
+
+- [Introduction to Machine Learning Model Interpretation](https://gilberttanner.com/blog/introduction-to-machine-learning-model-interpretation)
+- [Hands-on Global Model Interpretation](https://gilberttanner.com/blog/hands-on-global-model-interpretation)
+- [Local Model Interpretation: An Introduction](https://gilberttanner.com/blog/local-model-interpretation-an-introduction)
+- [Interpreting PyTorch models with Captum](https://gilberttanner.com/blog/interpreting-pytorch-models-with-captum)
 
 ## [Captum](Captum/)
 
@@ -38,8 +38,9 @@ Lime, Local Interpretable Model-Agnostic, is a local model interpretation techni
 ![ELI5 Example](eli5/doc/show_prediction_example.PNG)
 
 ELI5 helps debug machine learning classifiers and explain their predictions. It includes:
-* [Permutation Importance](https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html#eli5-permutation-importance)
-* [TextExplainer](https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html#lime-tutorial)
+
+- [Permutation Importance](https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html#eli5-permutation-importance)
+- [TextExplainer](https://eli5.readthedocs.io/en/latest/tutorials/black-box-text-classifiers.html#lime-tutorial)
 
 ## [PDPbox - python partial dependence plot toolbox](PDPbox/)
 
